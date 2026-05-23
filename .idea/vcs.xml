@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/claim-pilot-ai" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/claim-pilot-backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/claim-pilot-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/claim-pilot-frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/claim-pilot-infrastructure" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/claim-pilot-logging" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/claim-pilot-mcp-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docs" vcs="Git" />
+  </component>
+</project>
